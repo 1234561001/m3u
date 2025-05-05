@@ -1,5 +1,5 @@
 央视,#genre#
-CCTV1,http://home.kuaidi521.com:35455/gaoma/cctv1.m3u8
+CCTV1,http://222.169.34.129:40000/bptv/10000100000000050000000003864351.m3u8
 CCTV1,http://58.243.224.244:9901/tsfile/live/1031_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV1,http://xiaoya.crccxw.top:35455/gaoma/cctv1.m3u8
 CCTV1,http://58.220.219.14:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
